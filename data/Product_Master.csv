@@ -1,0 +1,23 @@
+ProductID,ProductName,Category,Brand,UnitCost,MRP,LaunchDate
+SKU001,ProGlide 5-Blade,Razors,VELORA,67,119.0,2024-06-24
+SKU002,ProGlide 3-Blade,Razors,VELORA,66,109.0,2023-07-27
+SKU003,Classic Twin Blade,Razors,VELORA,118,219.0,2024-07-04
+SKU004,Sensitive Skin Razor,Razors,VELORA,127,209.0,2022-03-26
+SKU005,Disposable Pack of 4,Disposable Razors,SHARPEDGE,47,99.0,2023-06-13
+SKU006,Disposable Pack of 8,Disposable Razors,VELORA,28,49.0,2023-11-23
+SKU007,Travel Disposable Pack of 2,Disposable Razors,VELORA,47,89.0,2023-05-02
+SKU008,Sensitive Skin Cream 100g,Shaving Cream,CLEANCUT,62,119.0,2024-10-06
+SKU009,Menthol Cool Cream 100g,Shaving Cream,SHARPEDGE,63,99.0,2023-02-21
+SKU010,Classic Cream 70g,Shaving Cream,CLEANCUT,86,169.0,2023-05-09
+SKU011,Clear Gel 200ml,Shaving Gel,CLEANCUT,68,119.0,2024-03-13
+SKU012,Sensitive Gel 150ml,Shaving Gel,SHARPEDGE,84,139.0,2022-07-19
+SKU013,Cooling Aftershave Lotion 50ml,Aftershave,GROOMIQ,90,169.0,2023-09-03
+SKU014,Alcohol-Free Aftershave Balm 50ml,Aftershave,CLEANCUT,113,209.0,2024-11-11
+SKU015,Splash Aftershave 100ml,Aftershave,GROOMIQ,80,149.0,2023-02-23
+SKU016,Beard Trimmer T100,Trimmers,GROOMIQ,459,649.0,2024-10-22
+SKU017,Beard Trimmer T200 Pro,Trimmers,GROOMIQ,715,1259.0,2022-10-16
+SKU018,Nose & Ear Trimmer Mini,Trimmers,GROOMIQ,602,1019.0,2021-02-07
+SKU019,Classic Bristle Brush,Shaving Brush,VELORA,102,189.0,2023-06-24
+SKU020,Premium Soft Brush,Shaving Brush,VELORA,152,279.0,2023-08-16
+SKU021,Grooming Starter Kit,Gift Sets,GROOMIQ,222,349.0,2023-08-01
+SKU022,Premium Grooming Combo,Gift Sets,VELORA,309,479.0,2022-05-27

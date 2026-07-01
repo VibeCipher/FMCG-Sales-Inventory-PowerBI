@@ -18,16 +18,16 @@ A Power BI dashboard analyzing 2 years of FMCG personal-care sales and inventory
 ## Screenshots
 
 ### Executive Overview
-![Executive Overview](screenshots/1_executive_overview.png)
+![Executive Overview](screenshots/1_executive_overview.png.PNG)
 
 ### Product Performance
-![Product Performance](screenshots/2_product_performance.png)
+![Product Performance](screenshots/2_product_performance.png.PNG)
 
 ### Regional & Channel Deep Dive
-![Regional Channel](screenshots/3_regional_channel.png)
+![Regional Channel](screenshots/3_regional_channel.png.PNG)
 
 ### Inventory Health Monitor
-![Inventory Health](screenshots/4_inventory_health.png)
+![Inventory Health](screenshots/4_inventory_health.png.PNG)
 
 ---
 
